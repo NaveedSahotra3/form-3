@@ -1,0 +1,94 @@
+.header{
+    margin-top: 100px;
+    margin-left: 18%;
+    margin-right: 5%;
+    background-color: darkgoldenrod;
+}
+.api{
+    float: left;
+}
+.buttonAdjustment{
+    float: right;
+   
+color: #9999ff;
+
+border-radius: 25px;
+border: none;
+outline: none;
+font-weight: bold;
+background-color: #e6e6ff;
+height: 50px;
+width: 200px;
+}
+.create{
+    float: left;
+    margin-left: 18%;
+    height: 30px;
+    width: 1050px;
+    background-color: #f2f2f2;
+    
+    
+    margin-top: 1%;
+    
+}
+.createApi{
+  color: #6666ff;
+  
+
+}
+.name{
+    margin-left: 2%;
+     margin-top: 2%;
+     margin-bottom: -12px;
+}
+.namefield{
+    margin-left: 2%;
+    height: 41px;
+    width: 400px;
+    border-radius: 2px;
+}
+.buttonAdjustment2{
+   margin-left: 2%;
+   
+color: #fffaf8;
+
+border-radius: 25px;
+border: none;
+outline: none;
+/* font-weight: bold; */
+background-color:#0062cc;
+
+height: 30px;
+width: 170px;
+}
+.end{
+
+    height: 300px;
+    width: 1050px;
+    
+    margin-top: 5%;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {background-color:#f5f5f5;}
+  select {
+      /* float: right; */
+      border: none;
+      outline: none;
+  }
+
+  tr:nth-last-child {
+   text-align: right;
+  } 
